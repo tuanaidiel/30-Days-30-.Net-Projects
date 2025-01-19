@@ -1,0 +1,10 @@
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\bin\Debug\P4 - Temperature Converter.exe.config
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\bin\Debug\P4 - Temperature Converter.exe
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\bin\Debug\P4 - Temperature Converter.pdb
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4 - Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4___Temperature_Converter.Form1.resources
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4___Temperature_Converter.Properties.Resources.resources
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4 - Temperature Converter.csproj.GenerateResource.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4 - Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4 - Temperature Converter.exe
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\P4 - Temperature Converter\P4 - Temperature Converter\obj\Debug\P4 - Temperature Converter.pdb
