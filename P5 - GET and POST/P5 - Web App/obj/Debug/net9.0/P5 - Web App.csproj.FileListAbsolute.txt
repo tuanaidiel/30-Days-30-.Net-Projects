@@ -1,0 +1,30 @@
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\appsettings.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.staticwebassets.endpoints.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.exe
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.deps.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.runtimeconfig.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.dll
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\bin\Debug\net9.0\P5 - Web App.pdb
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.AssemblyInfo.cs
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.sourcelink.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\scopedcss\bundle\P5 - Web App.styles.css
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets\msbuild.P5 - Web App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets\msbuild.P5 - Web App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets\msbuild.build.P5 - Web App.props
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.P5 - Web App.props
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.P5 - Web App.props
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.dll
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\refint\P5 - Web App.dll
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.pdb
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\P5 - Web App.genruntimeconfig.cache
+C:\Users\tuana\Documents\IT\.NET\30 Days 30 .NET Projects\MyFirstWebApp\P5 - Web App\obj\Debug\net9.0\ref\P5 - Web App.dll
