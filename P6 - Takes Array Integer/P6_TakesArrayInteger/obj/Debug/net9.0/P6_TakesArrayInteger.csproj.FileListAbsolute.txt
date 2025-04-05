@@ -1,0 +1,15 @@
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\bin\Debug\net9.0\P6_TakesArrayInteger.exe
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\bin\Debug\net9.0\P6_TakesArrayInteger.deps.json
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\bin\Debug\net9.0\P6_TakesArrayInteger.runtimeconfig.json
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\bin\Debug\net9.0\P6_TakesArrayInteger.dll
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\bin\Debug\net9.0\P6_TakesArrayInteger.pdb
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.AssemblyInfo.cs
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.sourcelink.json
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.dll
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\refint\P6_TakesArrayInteger.dll
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.pdb
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\P6_TakesArrayInteger.genruntimeconfig.cache
+C:\Users\tuana\Documents\.IT\.NET\30 Days 30 .NET Projects\P6 - Takes Array Integer\P6_TakesArrayInteger\obj\Debug\net9.0\ref\P6_TakesArrayInteger.dll
