@@ -1,0 +1,14 @@
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\bin\Debug\net9.0\Q4_inversestring.exe
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\bin\Debug\net9.0\Q4_inversestring.deps.json
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\bin\Debug\net9.0\Q4_inversestring.runtimeconfig.json
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\bin\Debug\net9.0\Q4_inversestring.dll
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\bin\Debug\net9.0\Q4_inversestring.pdb
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.AssemblyInfoInputs.cache
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.AssemblyInfo.cs
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.csproj.CoreCompileInputs.cache
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.dll
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\refint\Q4_inversestring.dll
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.pdb
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\Q4_inversestring.genruntimeconfig.cache
+C:\Aidiel\EXERCISES\Interview Questions\Q4_inversestring\obj\Debug\net9.0\ref\Q4_inversestring.dll
