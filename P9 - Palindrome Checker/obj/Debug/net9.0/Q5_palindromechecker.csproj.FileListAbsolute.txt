@@ -1,0 +1,14 @@
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.AssemblyInfoInputs.cache
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.AssemblyInfo.cs
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.csproj.CoreCompileInputs.cache
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\bin\Debug\net9.0\Q5_palindromechecker.exe
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\bin\Debug\net9.0\Q5_palindromechecker.deps.json
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\bin\Debug\net9.0\Q5_palindromechecker.runtimeconfig.json
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\bin\Debug\net9.0\Q5_palindromechecker.dll
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\bin\Debug\net9.0\Q5_palindromechecker.pdb
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.dll
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\refint\Q5_palindromechecker.dll
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.pdb
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\Q5_palindromechecker.genruntimeconfig.cache
+C:\Aidiel\.exercises\Interview Questions\Q5_palindromechecker\obj\Debug\net9.0\ref\Q5_palindromechecker.dll
