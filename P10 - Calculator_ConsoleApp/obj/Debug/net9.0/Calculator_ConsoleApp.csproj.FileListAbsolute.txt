@@ -1,0 +1,15 @@
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.AssemblyInfo.cs
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.sourcelink.json
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\bin\Debug\net9.0\Calculator_ConsoleApp.exe
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\bin\Debug\net9.0\Calculator_ConsoleApp.deps.json
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\bin\Debug\net9.0\Calculator_ConsoleApp.runtimeconfig.json
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\bin\Debug\net9.0\Calculator_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\bin\Debug\net9.0\Calculator_ConsoleApp.pdb
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\refint\Calculator_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.pdb
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\Calculator_ConsoleApp.genruntimeconfig.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\Calculator_ConsoleApp\obj\Debug\net9.0\ref\Calculator_ConsoleApp.dll

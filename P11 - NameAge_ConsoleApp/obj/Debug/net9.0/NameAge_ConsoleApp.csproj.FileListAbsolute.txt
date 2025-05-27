@@ -1,0 +1,15 @@
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\bin\Debug\net9.0\NameAge_ConsoleApp.exe
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\bin\Debug\net9.0\NameAge_ConsoleApp.deps.json
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\bin\Debug\net9.0\NameAge_ConsoleApp.runtimeconfig.json
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\bin\Debug\net9.0\NameAge_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\bin\Debug\net9.0\NameAge_ConsoleApp.pdb
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.AssemblyInfo.cs
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.sourcelink.json
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\refint\NameAge_ConsoleApp.dll
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.pdb
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\NameAge_ConsoleApp.genruntimeconfig.cache
+C:\Users\tuana\Documents\.IT\coding\exercises\NameAge_ConsoleApp\obj\Debug\net9.0\ref\NameAge_ConsoleApp.dll
